@@ -1,0 +1,13 @@
+print("Hello Nikhil!! , 665") 
+print("Heyy Nikhil")
+
+print("""Hello Nikhil . This is XYZ . How are you?
+How was your day?""")
+
+My_Var = "Nikhil"
+print(My_Var)
+
+x = 10
+y = 5
+print(x+y)
+
